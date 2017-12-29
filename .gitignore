@@ -5,3 +5,5 @@ test.properties
 temp/*
 cfg/*.properties
 .DS_Store
+jarling.ipr
+jarling.iws
